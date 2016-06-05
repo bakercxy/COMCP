@@ -1,0 +1,240 @@
+sup: 0.005 ,conf: 0.2
+=============================
+###Frequent Patterns:
+[on]: 35.71%
+[in]: 7.72%
+[analyt]: 6.15%
+[data]: 5.67%
+[workshop]: 5.67%
+[intern]: 4.83%
+[initi]: 4.10%
+[research]: 4.10%
+[for]: 3.98%
+[and]: 3.86%
+[on, intern]: 3.74%
+[2014]: 3.14%
+[of]: 2.77%
+[tran]: 2.65%
+[project]: 2.65%
+[india]: 2.29%
+[on, in]: 2.29%
+[on, analyt]: 2.29%
+[analysi]: 2.17%
+[on, tran]: 2.17%
+[on, and]: 2.05%
+[journal]: 1.93%
+[cloud]: 1.81%
+[decemb]: 1.69%
+[comput]: 1.69%
+[public]: 1.57%
+[data, analyt]: 1.57%
+[in, india]: 1.57%
+[secur]: 1.45%
+[steven]: 1.45%
+[topic]: 1.33%
+[technolog]: 1.33%
+[octob]: 1.33%
+[juli]: 1.33%
+[usa]: 1.33%
+[on, research]: 1.33%
+[the]: 1.21%
+[china]: 1.21%
+[congress]: 1.21%
+[and, analyt]: 1.21%
+[intern, in]: 1.21%
+[on, data]: 1.21%
+[washington]: 1.09%
+[june]: 1.09%
+[pdf]: 1.09%
+[scienc]: 1.09%
+[on, india]: 1.09%
+[intern, and]: 1.09%
+[on, comput]: 1.09%
+[novemb]: 0.97%
+[to]: 0.97%
+[format]: 0.97%
+[on, analysi]: 0.97%
+[on, cloud]: 0.97%
+[workshop, steven]: 0.97%
+[in, workshop]: 0.97%
+[in, and]: 0.97%
+[on, intern, in]: 0.97%
+[on, intern, and]: 0.97%
+[event]: 0.84%
+[hoboken]: 0.84%
+[big]: 0.84%
+[at]: 0.84%
+[august]: 0.84%
+[initit]: 0.84%
+[seminar]: 0.84%
+[and, the]: 0.84%
+[data, and]: 0.84%
+[on, in, india]: 0.84%
+[new]: 0.72%
+[smart]: 0.72%
+[iee]: 0.72%
+[publish]: 0.72%
+[call]: 0.72%
+[bdcloud]: 0.72%
+[network]: 0.72%
+[manag]: 0.72%
+[april]: 0.72%
+[and, cloud]: 0.72%
+[on, workshop]: 0.72%
+[for, call]: 0.72%
+[data, scienc]: 0.72%
+[workshop, at]: 0.72%
+[in, decemb]: 0.72%
+[cloud, comput]: 0.72%
+[in, analyt]: 0.72%
+[on, topic]: 0.72%
+[on, for]: 0.72%
+[on, and, analyt]: 0.72%
+[on, data, and]: 0.72%
+[issu]: 0.60%
+[associ]: 0.60%
+[recent]: 0.60%
+[york]: 0.60%
+[conférenc]: 0.60%
+[base]: 0.60%
+[怎么样]: 0.60%
+[healthcar]: 0.60%
+[relat]: 0.60%
+[xplore]: 0.60%
+[busi]: 0.60%
+[march]: 0.60%
+[bdiw]: 0.60%
+[standard]: 0.60%
+[communic]: 0.60%
+[文章]: 0.60%
+[and, scienc]: 0.60%
+[analyt, workshop]: 0.60%
+[on, the]: 0.60%
+[and, of]: 0.60%
+[hoboken, 2014]: 0.60%
+[on, project]: 0.60%
+[new, york]: 0.60%
+[on, 2014]: 0.60%
+[intern, analyt]: 0.60%
+[in, technolog]: 0.60%
+[data, analysi]: 0.60%
+[intern, india]: 0.60%
+[on, of]: 0.60%
+[intern, the]: 0.60%
+[india, workshop]: 0.60%
+[and, comput]: 0.60%
+[in, china]: 0.60%
+[on, intern, the]: 0.60%
+[on, and, the]: 0.60%
+[on, data, analyt]: 0.60%
+[on, in, and]: 0.60%
+[on, in, analyt]: 0.60%
+[intern, and, the]: 0.60%
+[on, and, comput]: 0.60%
+[on, cloud, comput]: 0.60%
+[on, intern, and, the]: 0.60%
+=============================
+###Association Rules:
+[york] -> [new]: 100.00%
+[call] -> [for]: 100.00%
+[on, the] -> [intern]: 100.00%
+[on, the] -> [and]: 100.00%
+[on, the] -> [intern, and]: 100.00%
+[intern, the] -> [on]: 100.00%
+[intern, the] -> [and]: 100.00%
+[intern, the] -> [on, and]: 100.00%
+[and, comput] -> [on]: 100.00%
+[on, intern, the] -> [and]: 100.00%
+[on, and, the] -> [intern]: 100.00%
+[intern, and, the] -> [on]: 100.00%
+[intern, and] -> [on]: 88.89%
+[at] -> [workshop]: 85.71%
+[data, and] -> [on]: 85.71%
+[new] -> [york]: 83.33%
+[cloud, comput] -> [on]: 83.33%
+[in, analyt] -> [on]: 83.33%
+[tran] -> [on]: 81.82%
+[intern, in] -> [on]: 80.00%
+[on, india] -> [in]: 77.78%
+[intern] -> [on]: 77.50%
+[hoboken] -> [2014]: 71.43%
+[and, the] -> [on]: 71.43%
+[and, the] -> [intern]: 71.43%
+[and, the] -> [on, intern]: 71.43%
+[the] -> [and]: 70.00%
+[india] -> [in]: 68.42%
+[steven] -> [workshop]: 66.67%
+[scienc] -> [data]: 66.67%
+[comput] -> [on]: 64.29%
+[on, cloud] -> [comput]: 62.50%
+[in, and] -> [on]: 62.50%
+[on, intern, and] -> [the]: 62.50%
+[and, analyt] -> [on]: 60.00%
+[on, data] -> [and]: 60.00%
+[scienc] -> [and]: 55.56%
+[intern, and] -> [the]: 55.56%
+[intern, and] -> [on, the]: 55.56%
+[on, comput] -> [and]: 55.56%
+[on, comput] -> [cloud]: 55.56%
+[topic] -> [on]: 54.55%
+[in, india] -> [on]: 53.85%
+[cloud] -> [on]: 53.33%
+[and] -> [on]: 53.12%
+[the] -> [on]: 50.00%
+[the] -> [intern]: 50.00%
+[the] -> [on, intern]: 50.00%
+[the] -> [on, and]: 50.00%
+[the] -> [intern, and]: 50.00%
+[the] -> [on, intern, and]: 50.00%
+[china] -> [in]: 50.00%
+[on, data] -> [analyt]: 50.00%
+[india] -> [on]: 47.37%
+[on, and] -> [intern]: 47.06%
+[technolog] -> [in]: 45.45%
+[analysi] -> [on]: 44.44%
+[decemb] -> [in]: 42.86%
+[comput] -> [cloud]: 42.86%
+[on, in] -> [intern]: 42.11%
+[cloud] -> [and]: 40.00%
+[cloud] -> [comput]: 40.00%
+[data, analyt] -> [on]: 38.46%
+[analyt] -> [on]: 37.25%
+[india] -> [on, in]: 36.84%
+[on, in] -> [india]: 36.84%
+[comput] -> [and]: 35.71%
+[comput] -> [on, and]: 35.71%
+[comput] -> [on, cloud]: 35.71%
+[on, and] -> [analyt]: 35.29%
+[on, and] -> [data]: 35.29%
+[cloud] -> [on, comput]: 33.33%
+[research] -> [on]: 32.35%
+[on, analyt] -> [and]: 31.58%
+[and] -> [analyt]: 31.25%
+[in] -> [on]: 29.69%
+[on, and] -> [the]: 29.41%
+[on, and] -> [in]: 29.41%
+[on, and] -> [comput]: 29.41%
+[on, and] -> [intern, the]: 29.41%
+[and] -> [intern]: 28.13%
+[analysi] -> [data]: 27.78%
+[data] -> [analyt]: 27.66%
+[india] -> [intern]: 26.32%
+[india] -> [workshop]: 26.32%
+[on, in] -> [and]: 26.32%
+[on, in] -> [analyt]: 26.32%
+[on, analyt] -> [data]: 26.32%
+[on, analyt] -> [in]: 26.32%
+[on, intern] -> [in]: 25.81%
+[on, intern] -> [and]: 25.81%
+[analyt] -> [data]: 25.49%
+[intern] -> [in]: 25.00%
+[and] -> [in]: 25.00%
+[and] -> [on, intern]: 25.00%
+[project] -> [on]: 22.73%
+[intern] -> [and]: 22.50%
+[and] -> [the]: 21.88%
+[and] -> [data]: 21.88%
+[of] -> [and]: 21.74%
+[of] -> [on]: 21.74%
+[data] -> [on]: 21.28%
+[in] -> [india]: 20.31%
